@@ -3,7 +3,7 @@
 A **production-grade** data engineering project that transforms raw cycling telemetry into **business-ready insights**.  
 It ingests structured training session data from **MySQL**, applies **robust transformations** & **feature engineering**, runs **time-window analytics** (8 weeks, 1 year, all-time), and generates **natural-language summaries** via LLMs — all delivered through a **secure Streamlit app** or a CLI batch runner.
 
-> **Why it matters for Data Engineering roles:** This pipeline goes beyond ETL. It showcases **real-world DE capabilities** — from **reliable ingestion** and **data quality safeguards** to **operational readiness** and **modular architecture**.
+> This pipeline goes beyond ETL. It showcases **real-world DE capabilities** — from **reliable ingestion** and **data quality safeguards** to **operational readiness** and **modular architecture**.
 
 ---
 
